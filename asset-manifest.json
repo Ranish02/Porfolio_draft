@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Porfolio_draft/static/css/main.c394657d.css",
+    "main.js": "/Porfolio_draft/static/js/main.7a436856.js",
+    "static/media/vegito.png": "/Porfolio_draft/static/media/vegito.f1376a904c72ba87dcbc.png",
+    "static/media/bubblechat.png": "/Porfolio_draft/static/media/bubblechat.d0e9e38f82b456804ab7.png",
+    "index.html": "/Porfolio_draft/index.html",
+    "main.c394657d.css.map": "/Porfolio_draft/static/css/main.c394657d.css.map",
+    "main.7a436856.js.map": "/Porfolio_draft/static/js/main.7a436856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c394657d.css",
+    "static/js/main.7a436856.js"
+  ]
+}
